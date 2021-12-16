@@ -1,3 +1,3 @@
 @echo off & setlocal
-powershell.exe -file "main.ps1"
+powershell.exe -file "nails/main.ps1"
 exit
